@@ -7,6 +7,11 @@
 - [Discuss Kubernetes](discuss.kubernetes.io)
 - [GitOps](https://www.gitops.tech/)
 
+## CKA
+- [Passing The CKA Exam For Experienced Kubernetes Operators](https://jimangel.io/post/cka-exam-for-experienced-kubernetes-operators/)
+- [How Heptio Engineers Ace the Certified Kubernetes Administrator Exam](https://blog.heptio.com/how-heptio-engineers-ace-the-certified-kubernetes-administrator-exam-93d20af32557)
+- [CKA Exam Prep Slack Channel](https://kubernetes.slack.com/archives/CA0HH2XTJ)
+
 ## Training
 
 - [Intro To Kubernetes](https://www.edx.org/course/introduction-to-kubernetes)
