@@ -6,6 +6,8 @@
 - [Kubernetes Slack](kubernetes.slack.com)
 - [Discuss Kubernetes](discuss.kubernetes.io)
 - [GitOps](https://www.gitops.tech/)
+- [Kubernetes and Networking](https://speakerdeck.com/thockin/kubernetes-and-networks-why-is-this-so-dang-hard)
+- [Bringing traffic into your cluster](https://speakerdeck.com/thockin/bringing-traffic-into-your-kubernetes-cluster)
 
 ## CKA
 - [Passing The CKA Exam For Experienced Kubernetes Operators](https://jimangel.io/post/cka-exam-for-experienced-kubernetes-operators/)
