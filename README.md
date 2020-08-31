@@ -1,15 +1,22 @@
 # Resources
 
+## Office Hours
 - [Kubernetes Office Hours](https://github.com/kubernetes/community/blob/master/events/office-hours.md)
+
+## News Letters
 - [KubeWeekly](https://kubeweekly.io/)
 - [DevOps'ish](https://devopsish.com/)
+
+## Messaging
 - [Kubernetes Slack](kubernetes.slack.com)
 - [Discuss Kubernetes](discuss.kubernetes.io)
+
+## General
 - [GitOps](https://www.gitops.tech/)
 - [Kubernetes and Networking](https://speakerdeck.com/thockin/kubernetes-and-networks-why-is-this-so-dang-hard)
 - [Bringing traffic into your cluster](https://speakerdeck.com/thockin/bringing-traffic-into-your-kubernetes-cluster)
 
-## CKA
+## CKA Prep
 - [Passing The CKA Exam For Experienced Kubernetes Operators](https://jimangel.io/post/cka-exam-for-experienced-kubernetes-operators/)
 - [How Heptio Engineers Ace the Certified Kubernetes Administrator Exam](https://blog.heptio.com/how-heptio-engineers-ace-the-certified-kubernetes-administrator-exam-93d20af32557)
 - [CKA Exam Prep Slack Channel](https://kubernetes.slack.com/archives/CA0HH2XTJ)
