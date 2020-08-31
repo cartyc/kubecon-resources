@@ -27,13 +27,13 @@
 
 ## Tools
 
-- FluxCD
-- ArgoCD
-- Gitlab
-- Spinnaker
-- Tekton
-- MiniKube
-- KinD
-- microK8s
-- Helm
-- Kustomize
+- [FluxCD](https://docs.fluxcd.io/en/1.20.2/)
+- [ArgoCD](https://argoproj.github.io/argo-cd/)
+- [Gitlab](https://about.gitlab.com/)
+- [Spinnaker](https://spinnaker.io/)
+- [Tekton](https://tekton.dev/)
+- [MiniKube](https://github.com/kubernetes/minikube)
+- [KinD](https://kind.sigs.k8s.io/)
+- [microK8s](https://microk8s.io/)
+- [Helm](https://helm.sh/)
+- [Kustomize](https://github.com/kubernetes-sigs/kustomize)
